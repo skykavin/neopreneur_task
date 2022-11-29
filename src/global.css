@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-josefin-sans: "Josefin Sans";
+
+  /* font sizes */
+  --font-size-sm: 20px;
+  --font-size-base: 24px;
+
+  /* Colors */
+  --color-gray-100: #f4f3ee;
+  --color-gray-200: #eef1ef;
+  --color-gray-300: #d9d9d9;
+  --color-gray-400: #a9bcbc;
+  --color-gray-500: #889797;
+  --color-gray-600: #6b7d7d;
+  --color-gray-700: #595239;
+  --color-white: #fff;
+  --color-teal: #15616d;
+  --color-blue: #731dd8;
+  --color-indigo-100: #2c4db1;
+  --color-indigo-200: #1d3373;
+  --color-indigo-300: #0a2463;
+  --color-gold: #ffc914;
+
+  /* Gaps */
+  --gap-md: 56px;
+
+  /* Paddings */
+  --padding-4xs: 2px;
+  --padding-3xs: 3px;
+  --padding-2xs: 4px;
+  --padding-xs: 5px;
+  --padding-sm: 6px;
+  --padding-md: 7px;
+  --padding-lg: 10px;
+  --padding-xl: 12px;
+  --padding-2xl: 15px;
+  --padding-3xl: 30px;
+
+  /* border radiuses */
+  --br-sm: 3px;
+  --br-md: 5px;
+  --br-lg: 50px;
+}
